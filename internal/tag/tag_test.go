@@ -3,7 +3,7 @@ package tag_test
 import (
 	"testing"
 
-	"github.com/mohsen-farahani/sampletag/tag"
+	"github.com/mohsen-farahani/sampletag/internal/tag"
 )
 
 func TestItConvertStringToArrayByAndSeparated(t *testing.T) {
